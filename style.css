@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(113, 118, 118)
+}
+input{
+    width: 85%;
+    height: 30px;
+    cursor: pointer;
+}
+#b1{
+    height: 30px;
+    width: 14%;
+
+
+    cursor: pointer;
+}
+  table tr {
+    width: 40%;
+    height: 100%;
+    background-color: aliceblue;
+} 
+#name{
+    width: 100vw;
+    background-color: rgb(177, 187, 187);
+    color: black;
+    height: 30px;
+    padding-left: 20px;
+}
+#flags {
+     
+       background-color: rgb(177, 187, 187);
+       width: 100vw;
+}
+#capital{
+    width: 100vw;
+    height: 30px;
+    padding-left: 20px;
+}
+.second table{
+    width: 100vw;
+    
+}
